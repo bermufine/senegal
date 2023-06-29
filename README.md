@@ -18,12 +18,21 @@
 
 {"descriptionSen":"Walf tv est la chaine senegalaise qui difuse des emissions, musique, infos et autres...","sourceSen":["https://live3.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yNTkxOTc0MDRf/walf.png","titleSen":"WALF TV"},
 
+{"descriptionSen":"Parce que les temps changent et que nous vivons dans un monde où tout évolue de plus en plus vite, votre temps n'en devient que plus précieux. Alors mieux que d'attendre un programme télé devant votre petit écran, pourquoi ne pas le voir ou revoir à volonté, et cela quand et où vous voulez. TÉLÉ SÉNÉGAL vous offre désormais la possibilité de vivre la télévision comme et quand vous le voulez, avec en plus une ponctualité et une qualité de publication des vidéos de tout premier ordre, pour que vous ne ratiez plus rien des émissions, séries, journaux télévisés et autres événements télévisuels du Sénégal et bien au-delà…TÉLÉ SÉNÉGAL, redécouvrez la télévision","sourceSen":["https://ythls.onrender.com/channel/UC-6dz560kcpeLmxceZzn44A.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkyNDJf/TE%CC%81LE%CC%81SE%CC%81NE%CC%81GAL.jpeg","titleSen":"TELE SENEGAL"},
+
+{"descriptionSen":"TFM is Senegal’s privately-owned television channel.Owned by Senegalese musician Youssou N Dour, who owns a major media group in Dakar.","sourceSen":["https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TFM.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://3.bp.blogspot.com/-eyo4UyKqjlI/WWTobvXxLqI/AAAAAAAAB_g/BFn1KiR6vcYQMilgX4nWhGJHbHMEP_l0ACLcBGAs/s1600/tfm%2Bsenegal.png","titleSen":"TFM TV"},
+
+{"descriptionSen":"2STV est la chaine senegalaise qui difuse des emissions, musique et autres...","sourceSen":["https://ythls.onrender.com/channel/UCeLEGbj240J6JhpP7ba8GwA.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yNTkxOTUzNTdf/dstv.png","titleSen":"2STV"},
+
+{"descriptionSen":"Africa 7 est la chaine de télévision sénégalaise. Une marque de presse qui se donne à lire, à écouter et à voir avec la plus grande variété possible..","sourceSen":["https://live3.acangroup.org:1929/publiclive/septtv.stream_all/chunks.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkzMDVf/africa7.png","titleSen":"AFRICA 7 TV"},
+
+{"descriptionSen":"Louga TV est une chaine culturelle et religieuse Senegalaise qui se veut attractive et objective. En temps réel, elle produit des vidéos de qualité qui tiennent compte de la spécificité de l’information et de la crédibilité de ses sources. Également, l’équipe technique et rédactionnelle est constituée de techniciens chevronnés aux compétences avérées. Dans son approche des enjeux de l’information capitale, la chaine louga tv offre des vidéos qui informent, forment et transforment le citoyen dans l’approche de son monde en devenir..","sourceSen":["https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://i.ytimg.com/vi/3Gnt2_SndXw/maxresdefault.jpg","titleSen":"LOUGA TV"},
 
 
 
 
 
-{"descriptionSen":"Africa 7 est la chaine de télévision sénégalaise. Une marque de presse qui se donne à lire, à écouter et à voir avec la plus grande variété possible..","sourceSen":["https://helga.iptv2022.com/Africa_7/tracks-v1a1/mono.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkzMDVf/africa7.png","titleSen":"AFRICA 7 TV"},
+
 
 {"descriptionSen":"ITV est la chaine de télévision sénégalaise du groupe E média. Une marque de presse qui se donne à lire, à écouter et à voir avec la plus grande variété possible..","sourceSen":["https://helga.iptv2022.com/ITVHD/index.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkyNTRf/ITV.jpeg","titleSen":"ITV HD"},
 
@@ -31,22 +40,11 @@
 
 {"descriptionSen":"SIWEUL TV est une chaine basée à Dakar qui diffuse l'actualité dans le monde.","sourceSen":["https://helga.iptv2022.com/SIWEUL_TV/index.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkyOTBf/SIWEUL.jpeg","titleSen":"SIWEUL TV"},
 
-{"descriptionSen":"2STV est la chaine senegalaise qui difuse des emissions, musique et autres...","sourceSen":["https://stream.mmsiptv.com/droid/2stv/playlist.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yNTkxOTUzNTdf/dstv.png","titleSen":"2STV"},
-
-{"descriptionSen":"Parce que les temps changent et que nous vivons dans un monde où tout évolue de plus en plus vite, votre temps n'en devient que plus précieux. Alors mieux que d'attendre un programme télé devant votre petit écran, pourquoi ne pas le voir ou revoir à volonté, et cela quand et où vous voulez. TÉLÉ SÉNÉGAL vous offre désormais la possibilité de vivre la télévision comme et quand vous le voulez, avec en plus une ponctualité et une qualité de publication des vidéos de tout premier ordre, pour que vous ne ratiez plus rien des émissions, séries, journaux télévisés et autres événements télévisuels du Sénégal et bien au-delà…TÉLÉ SÉNÉGAL, redécouvrez la télévision","sourceSen":["https://helga.iptv2022.com/Tele_Senegal/index.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkyNDJf/TE%CC%81LE%CC%81SE%CC%81NE%CC%81GAL.jpeg","titleSen":"TELE SENEGAL"},
-
-
 {"descriptionSen":"RTJ TV ( Radio Télévision Jeune ) est une chaine de télévision culturel Sénégalaise. Elle diffuse des programme de divertissement( WatZapp le Zapping), Musique (playlist Mix Afro Mix Zouk Mix Hip Hop Musique sénégalaise), bien être, documentaire, Émission éducatif qui consiste à joindre l’utile à l’agréable à travers l'éducation des enfants, interviews ect.","sourceSen":["http://public.acangroup.org:1935/output/rtjtv.stream/playlist.m3u8"],"subtitleSen":"By Channel","thumbSen":"http://rtjtv.com/images/rtjtv.png","titleSen":"RTJ TV"},
-
-
-
-{"descriptionSen":"TFM is Senegal’s privately-owned television channel.Owned by Senegalese musician Youssou N Dour, who owns a major media group in Dakar.","sourceSen":["http://46.105.114.82/tfm_senegal.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://3.bp.blogspot.com/-eyo4UyKqjlI/WWTobvXxLqI/AAAAAAAAB_g/BFn1KiR6vcYQMilgX4nWhGJHbHMEP_l0ACLcBGAs/s1600/tfm%2Bsenegal.png","titleSen":"TFM TV"},
 
 {"descriptionSen":"RTJ TV ( Radio Télévision Jeune ) est une chaine de télévision culturel Sénégalaise. Elle diffuse des programme de divertissement( WatZapp le Zapping), Musique (playlist Mix Afro Mix Zouk Mix Hip Hop Musique sénégalaise), bien être, documentaire, Émission éducatif qui consiste à joindre l’utile à l’agréable à travers l'éducation des enfants, interviews ect","sourceSen":["http://public.acangroup.org:1935/output/rtjtv.stream/playlist.m3u8"],"subtitleSen":"By Channel","thumbSen":"http://rtjtv.com/images/rtjtv.png","titleSen":"RTJ TV"},
 
 {"descriptionSen":"ANN TV est une chaîne d’Informations générales et de Divertissement. Elle est produite par JUUF COMMUNICATION et diffusée sur le site d’informations générales multimédia ANN. La plateforme ANN comporte un journal en ligne (ANN), une WebRadio (ANN FM) et une WebTV (ANN TV).","sourceSen":["http://vod.acangroup.org:1935/output/anntv.stream/playlist.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://an-news.com/wp-content/uploads/2019/05/aan.png","titleSen":"ANN TV"},
-
-{"descriptionSen":"Louga TV est une chaine culturelle et religieuse Senegalaise qui se veut attractive et objective. En temps réel, elle produit des vidéos de qualité qui tiennent compte de la spécificité de l’information et de la crédibilité de ses sources. Également, l’équipe technique et rédactionnelle est constituée de techniciens chevronnés aux compétences avérées. Dans son approche des enjeux de l’information capitale, la chaine louga tv offre des vidéos qui informent, forment et transforment le citoyen dans l’approche de son monde en devenir..","sourceSen":["http://ira.dyndns.tv:8080/live/louga/CAnhiMtR6C/1708.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://i.ytimg.com/vi/3Gnt2_SndXw/maxresdefault.jpg","titleSen":"LOUGA TV"},
 
 {"descriptionSen":"L'AS TV est la chaine privee du senegal","sourceSen":["https://helga.iptv2022.com/Planete_Dev_TV/index.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ3MTM2MTNf/L_AS.jpeg","titleSen":"L'AS TV"},
 
