@@ -6,6 +6,8 @@
 
 {"descriptionSen":"Leral TV est une chaine basée à Dakar qui diffuse l'actualité dans le monde.","sourceSen":["https://live3.acangroup.org:1929/acanabr/leraltv_all/acanabr/leraltv_720p/chunks.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkyOTVf/Leral.jpeg","titleSen":"LERAL TV"},
 
+{"descriptionSen":"2Stv est une station de radio diffusée sur le réseau de Radiodiffusion Télévision Sénégalaise (RTS1 HD) de Dakar, au Sénégal, fournissant des informations, des sports, des débats, des émissions en direct et des informations sur la culture ainsi que la musique.","sourceSen":["http://69.64.57.208/crtv/index.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yOTEwMjUxNzdf/rts2.png","titleSen":"2STV"},
+
 {"descriptionSen":"Yakaar TV est la première chaîne de télévision chrétienne et liturgique au Sénégal. Yakaar TV vous fait découvrir la véritable culture du gospel Afro-Caribéen et la liturgie chrétienne.","sourceSen":["https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yODQ2ODkyMzZf/Yakaar.jpeg","titleSen":"YAKAAR TV"},
 
 {"descriptionSen":"CNM tv est une chaine Sénégalaise.","sourceSen":["https://stream.sen-gt.com/cnmtv/myStream/playlist.m3u8"],"subtitleSen":"By Channel","thumbSen":"https://od.lk/s/M18yOTEwMjUxNzNf/cnm.jpeg","titleSen":"CNM TV"},
